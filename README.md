@@ -1,4 +1,4 @@
-# iMovieShow Backend API
+# iMovieS Ticket Booking System
 
 A comprehensive movie booking system backend built with Node.js, Express.js, and MongoDB.
 
