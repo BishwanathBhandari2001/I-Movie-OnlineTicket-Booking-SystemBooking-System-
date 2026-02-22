@@ -216,7 +216,7 @@ const Register = ({ onLogin }) => {
                 </div>
               ) : (
                 'Create Account'
-              )}
+              )}9
             </button>
           </form>
         </div>
